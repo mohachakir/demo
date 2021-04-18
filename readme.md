@@ -1,3 +1,3 @@
 my first git add
 
-my 2éme test update in brcanche bad branch
+my 2éme test update in brcanche bad test
